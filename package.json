@@ -1,0 +1,26 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameswilson7788/Image-Search-Abstraction-Layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jameswilson7788/Image-Search-Abstraction-Layer/issues"
+  },
+  "homepage": "https://github.com/Jameswilson7788/Image-Search-Abstraction-Layer#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1",
+    "youtube-api": "^2.0.9",
+    "youtube-node": "^1.3.2"
+  }
+}
